@@ -1,0 +1,4 @@
+some lower-case letters could be upper case in the references [Fin03, Kei92]
+
+fix 2 b_1 in Alg. 5
+
